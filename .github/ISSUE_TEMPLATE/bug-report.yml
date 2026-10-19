@@ -1,0 +1,51 @@
+name: 反馈使用问题
+description: 动作、玩具、剧情或安装更新遇到的问题
+title: "[问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "谢谢你帮忙照顾斑斑。描述当时做了什么，比只写‘不顺滑’更容易找到原因。"
+  - type: input
+    id: version
+    attributes:
+      label: 斑斑版本
+      description: 右键斑斑 → 小设置，底部可看到版本。
+      placeholder: 例如 0.7.38 安装版
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 问题出现在哪里？
+      options:
+        - 动作与素材
+        - 玩具与拖动
+        - 剧情与结局
+        - 睡眠与日常行为
+        - 菜单、大小与屏幕位置
+        - 安装、启动或更新
+        - 记忆与设置保存
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 当时做了什么，发生了什么？
+      placeholder: "例如：拿出软球 → 拖到右边松开 → 斑斑走近时……"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 你期待怎样回应？
+  - type: input
+    id: environment
+    attributes:
+      label: 系统与屏幕（选填）
+      placeholder: 例如 Windows 11，双屏，缩放 150%
+  - type: textarea
+    id: media
+    attributes:
+      label: 截图或短录屏（选填）
+      description: 可以直接拖入附件；画面中如有个人信息，请先遮去。

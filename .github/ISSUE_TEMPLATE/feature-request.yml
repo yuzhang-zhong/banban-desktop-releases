@@ -1,0 +1,22 @@
+name: 分享一个小想法
+description: 希望斑斑多一种怎样的日常？
+title: "[想法] "
+body:
+  - type: textarea
+    id: scene
+    attributes:
+      label: 你想在哪种情况下遇见它？
+      placeholder: 例如：工作很久后，想让斑斑……
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 希望她怎样做？
+      description: 可以描述动作、语气、互动过程，或附上参考。
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 现在的体验有什么不方便？（选填）

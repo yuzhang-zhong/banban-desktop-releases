@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 先看看使用指南
+    url: https://github.com/yuzhang-zhong/banban-desktop-releases/blob/main/docs/USER-GUIDE.md
+    about: 玩具怎么操作、如何关闭持续睡觉、怎样接着读故事。
+  - name: 安装、存档与更新常见问题
+    url: https://github.com/yuzhang-zhong/banban-desktop-releases/blob/main/docs/FAQ.md
+    about: 下载哪个文件、Windows 提示、记忆在哪里、如何更新。
