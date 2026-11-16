@@ -10,6 +10,8 @@
 
 <h1 align="center">像素斑斑 · Windows 桌宠</h1>
 
+<p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
+
 <p align="center">
 <strong>给桌面留一点位置，斑斑想住进来。</strong><br>
 一只会散步、犯困、追线头，也有自己小主意的三花猫。<br>
