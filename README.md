@@ -14,8 +14,8 @@
 
 <p align="center">
 <strong>给桌面留一点位置，斑斑想住进来。</strong><br>
-一只会散步、犯困、追线头，也有自己小主意的三花猫。<br>
-大部分时间，她过自己的日子。偶尔遇见一段故事，再邀请你一起选。
+Windows 10 / 11 桌面上的像素风三花猫透明桌宠软件：会散步、犯困、爬窗口边、玩逗猫棒与毛线球，还能触发日常小故事。<br>
+Pixel Banban: a cozy pixel-art calico cat desktop pet for Windows 10/11 that walks along the screen edge, climbs window borders, plays with interactive toys like yarn and feather wands, and unlocks little everyday stories.
 </p>
 
 <p align="center">
