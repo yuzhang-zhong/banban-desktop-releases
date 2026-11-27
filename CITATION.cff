@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it using the metadata below."
+type: software
+title: "Pixel Banban (像素斑斑): Cozy Pixel-Art Calico Cat Desktop Pet for Windows 10/11"
+authors:
+  - family-names: "Zhong"
+    given-names: "Yuzhang"
+repository-code: "https://github.com/yuzhang-zhong/banban-desktop-releases"
+url: "https://github.com/yuzhang-zhong/banban-desktop-releases/releases/latest"
+abstract: "Official Windows 10/11 (x64) installer release and user guide repository for Pixel Banban (像素斑斑), a cozy transparent pixel-art calico cat desktop pet (shimeji / screenmate) that walks along the monitor bottom, climbs foreground app windows, interacts with 7 physics/gesture toys, and unlocks local episodic stories."
+keywords:
+  - "desktop-pet"
+  - "virtual-pet"
+  - "screenmate"
+  - "shimeji"
+  - "pixel-art"
+  - "calico-cat"
+  - "windows-11"
+  - "windows-10"
+  - "cozy-game"
+  - "desktop-companion"
