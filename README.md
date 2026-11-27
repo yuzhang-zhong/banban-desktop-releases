@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/architecture-x64-847264?style=flat-square" alt="64 位 x64 安装版">
 </p>
 
-<h1 align="center">像素斑斑 · Windows 桌宠</h1>
+<h1 align="center">像素斑斑 Pixel Banban · Windows 桌宠 (Calico Cat Desktop Pet)</h1>
 
 <p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
 
