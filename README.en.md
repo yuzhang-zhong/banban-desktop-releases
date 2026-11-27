@@ -9,14 +9,14 @@
 </p>
 
 <a id="像素斑斑--windows-桌宠"></a>
-<h1 align="center">Pixel Banban · Windows desktop cat</h1>
+<h1 align="center">Pixel Banban · Cozy Pixel-Art Calico Cat Desktop Pet for Windows 10/11</h1>
 
 **English** · [简体中文](README.md)
 
 <p align="center">
 <strong>Make a little room on your desktop. Banban would like to move in.</strong><br>
-A calico who takes walks, gets sleepy, chases loose threads, and has a mind of her own.<br>
-Most of the time, she goes about her day. Now and then, a story finds her, and she invites you to choose what happens next.
+A pixel-art calico cat desktop pet and virtual screenmate who walks along the bottom of your screen, climbs window borders, gets sleepy, plays with interactive yarn and feather-wand toys, and has a mind of her own.<br>
+Most of the time, she goes about her day. Now and then, a little everyday story finds her, and she invites you to choose what happens next.
 </p>
 
 <p align="center">
