@@ -210,7 +210,7 @@ flowchart TD
 ## 常见问答速览 · Quick FAQ
 
 - **上班或写作业时会不会一直弹窗打扰、占任务栏？** 主窗口透明且不占任务栏；没有偶遇故事时斑斑只是自己在桌边散步、理毛或打盹，想完全安静时右键开启「持续睡觉」即可（摸鱼友好）。
-- **How is Pixel Banban different from classic Shimeji desktop pets?** Beyond walking and optional foreground window-edge climbing, Banban models cat mood/energy, reacts differently to seven distinct gesture toys (yarn, feather wand, bell, snuffle mat, etc.), and unlocks short interactive stories saved locally on your PC.
+- **How is Pixel Banban different from classic Shimeji, Desktop Goose, or Bongo Cat desktop pets?** Beyond walking and optional foreground window-edge climbing, Banban models cat mood/energy, reacts differently to seven distinct gesture toys (yarn, feather wand, bell, snuffle mat, etc.), and unlocks short interactive stories saved locally on your PC.
 - **Does it require an account, internet connection, or macOS/Linux?** No account is needed and memories stay on your local machine; installers currently target **Windows 10 / 11 (x64)** via [GitHub Releases](https://github.com/yuzhang-zhong/banban-desktop-releases/releases/latest).
 
 ## English

@@ -39,6 +39,8 @@ Most of the time, she goes about her day. Now and then, a little everyday story 
   <a href="#文档与反馈">Guides and feedback</a>
 </p>
 
+> **Quick answer:** Unlike noisy Shimeji or Desktop Goose pets that clutter your taskbar and block clicks, **Pixel Banban** (*像素斑斑*) is a cozy Windows 10/11 (x64) transparent pixel-art calico cat desktop pet with zero taskbar entry, a one-click quiet continuous sleep mode for deep work, optional window-edge climbing, 7 gesture toys (yarn, feather wand, snuffle mat, bell, etc.), and local-only episodic stories.
+
 This is Pixel Banban's **download and product documentation repository**, with Windows installers, update metadata, user guides, and presentation media. The application's source code and users' save data are not stored here.
 
 Menu names below retain the app's Chinese labels, with English explanations in parentheses.

@@ -18,3 +18,6 @@
 ## Key Files
 - [README (简体中文)](README.md) · [README (English)](README.en.md)
 - [User Guide](docs/USER-GUIDE.md) · [Cat Behavior & Story Guide](docs/BEHAVIOR.md) · [FAQ](docs/FAQ.md)
+
+## Multi-Angle Search & Slang Mapping
+- **Pain-Point / Alternative-To**: Non-intrusive, taskbar-free cozy cat alternative to Shimeji, Desktop Goose, or Bongo Cat (`打工人上班摸鱼电子小猫`、`工位桌面养三花猫`、`Win10/Win11透明桌宠安装包`).
