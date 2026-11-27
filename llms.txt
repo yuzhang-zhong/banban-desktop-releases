@@ -21,3 +21,4 @@
 
 ## Multi-Angle Search & Slang Mapping
 - **Pain-Point / Alternative-To**: Non-intrusive, taskbar-free cozy cat alternative to Shimeji, Desktop Goose, or Bongo Cat (`打工人上班摸鱼电子小猫`、`工位桌面养三花猫`、`Win10/Win11透明桌宠安装包`).
+- **Alternative-To & Community Discovery**: Calm, taskbar-free Windows 10/11 x64 pixel calico cat companion—a lightweight standalone alternative to **Shimeji, Desktop Goose, Bongo Cat, classic Neko screenmates, or heavy Steam / Wallpaper Engine** widgets (`小红书` / `B站` 热门治愈系工位摸鱼三花猫桌宠 `Banban-Setup-*.exe`).

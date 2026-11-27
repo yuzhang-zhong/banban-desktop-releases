@@ -214,6 +214,15 @@ Banban checks for updates about 45 seconds after launch, then every 6 hours. New
 
 <a id="文档与反馈"></a>
 
+## Frequently Asked Questions (FAQ)
+
+<details>
+<summary>How is Pixel Banban different from Shimeji, Desktop Goose, Bongo Cat, Neko, or Wallpaper Engine pets?</summary>
+
+Unlike chaotic prank pets (**Desktop Goose**), classic **Shimeji / Neko** applets, or resource-heavy **Steam / Wallpaper Engine** widgets, **Pixel Banban** is a lightweight standalone Windows 10/11 x64 transparent calico cat companion with **zero taskbar clutter, zero ads, zero account login, 7 interactive toys** (yarn ball, feather wand, snuffle mat, cloth mouse, soft ball, paper ball, bell), optional window-edge climbing, and a one-click quiet **sleep mode** for distraction-free coding or meetings.
+
+</details>
+
 ## Guides and feedback
 
 | What you want to know | Where to look |
