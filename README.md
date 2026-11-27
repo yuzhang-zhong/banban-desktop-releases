@@ -205,6 +205,10 @@ flowchart TD
 
 封面与展示素材使用真实角色和道具，素材版本见图中标注；动图为实际运行片段。演示背景用于清楚呈现透明桌宠，不会成为安装后的桌面背景。
 
+## English
+
+**Pixel Banban** (*像素斑斑*) is a cozy pixel-art calico cat desktop pet and virtual screenmate for **Windows 10 / 11 (x64)**. She walks along the bottom of your screen, naps, grooms, climbs foreground window edges, plays with seven interactive toys (soft ball, paper ball, cloth mouse, yarn, feather wand, bell, and snuffle mat), and gradually unlocks short everyday stories stored locally on your PC. Download the installer from [GitHub Releases](https://github.com/yuzhang-zhong/banban-desktop-releases/releases/latest) and read the [full English README](README.en.md).
+
 ---
 
 <p align="center"><sub>不用一直陪她做什么。桌边多一只猫，也可以只是多一点日常。</sub></p>
