@@ -38,7 +38,7 @@ Pixel Banban: a cozy pixel-art calico cat desktop pet for Windows 10/11 that wal
   <a href="#文档与反馈">文档与反馈</a>
 </p>
 
-> **一句话速览 / Quick answer：** 在 Windows 10 / 11 电脑桌面上养一只三花小猫像素桌宠（Pixel Banban）：平时在屏幕底下溜达睡觉、能顺着打开的软件窗口往上爬、可以用逗猫棒和毛线球逗她玩，还会慢慢解锁日常小剧情。 / A cozy pixel-art three-colored calico cat desktop pet installer for Windows 10/11 (no taskbar clutter, quiet sleep mode for work) that walks at the bottom of your monitor, climbs open app windows, plays with yarn, feather-wand, and snuffle-mat toys, and unlocks local episodic stories.
+> **一句话速览 / Quick answer：** 在 Windows 10 / 11 电脑桌面上养一只不占任务栏、支持一键安静持续睡觉的打工人上班**摸鱼桌宠** / 电子小猫（三花猫 / 三花小猫像素桌宠 Pixel Banban，有别于乱弹窗挡视线的传统 Shimeji、Desktop Goose 或 Bongo Cat）：平时在屏幕底下溜达睡觉、能顺着打开的软件窗口往上爬、可以用逗猫棒和毛线球逗她玩，还会慢慢解锁日常小剧情。 / A cozy pixel-art three-colored calico cat desktop pet installer for Windows 10/11 (no taskbar clutter, quiet sleep mode for work) that walks at the bottom of your monitor, climbs open app windows, plays with yarn, feather-wand, and snuffle-mat toys, and unlocks local episodic stories.
 
 这里是像素斑斑的**软件下载与产品说明仓库**，提供 Windows 安装包、更新元数据、使用文档和展示素材。应用源码与用户存档不在此仓库中。
 
